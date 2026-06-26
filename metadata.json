@@ -1,0 +1,6 @@
+{
+  "name": "CareSuite HMS",
+  "description": "A premium, production-quality Hospital Management System (HMS) featuring integrated Admin, Doctor, Patient, Receptionist, Pharmacist, and Lab Technician portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
